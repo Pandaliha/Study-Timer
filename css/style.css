@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css?family=Cutive+Mono');
+h1{
+  font-size: 28pt;
+  font-family: "Cutive Mono";
+  font-weight: bold;
+  }
+
+h2{
+  font-size: 30pt; 
+  color: white;
+  }
+
+
+.btn{
+  font-size: 24pt;
+  }
+body{
+  background: url('https://i.imgur.com/mVcfk1l.jpg') no-repeat left top;
+  background-size: cover;
+  font-size: 18pt;
+  color: #fff;
+    text-shadow: 2px 2px 3px #000;
+  }
+#counter{
+  font-size: 75pt;
+  margin: 15px;
+  }
+.col-md-4{
+  border-style: none;
+  border-radius: 5px;  
+  }
+.counter{
+  height: 150px;
+  width: 150px;
+  margin-top: 10px;
+  background: rgba(75,75,75,.6);
+  border: 2px solid black;
+  border-radius: 70%;
+  }
+ 
+.container-fluid{
+  background: rgba(225,225,225,.3);
+  width: 80%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin: auto;
+  margin-top:3px;
+  border: 2px solid black;
+  border-radius: 25px;
+  }
+  
+.btn{
+  margin: 5px
+}
+h3{
+  font-size: 28px;
+  margin-top: -10px;
+  color:white;
+}
+.btn-light{
+  font-size: 29px;
+  background-color: grey;
+  color: white;
+}
